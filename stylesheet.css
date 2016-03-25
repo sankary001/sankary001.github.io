@@ -1,0 +1,42 @@
+body{
+	background-color:#98FB98;
+}
+h1{
+	font-family:serif;
+	text-align:center;
+}
+#phone{
+	text-decoration:none;
+	text-align: center;
+	font-family:Verdana;
+}
+#email{
+	text-decoration:none;
+	text-align: center;
+	font-family:Verdana;
+}
+#address{
+	text-decoration:none;
+	text-align: center;
+	font-family:Verdana;
+}
+.info{
+	text-align: center;
+	font-family:Verdana;
+	font-size: 48px;
+}
+img{
+	height:200px;
+	width:150px;
+	border:5px solid black;
+	float:center;
+}
+li p{
+	font-size:20px;
+}
+h2{
+	font-size:32px;
+}
+li{
+	font-size:28px;
+}
